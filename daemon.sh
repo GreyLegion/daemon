@@ -35,7 +35,6 @@ h(){
 	help
 }
 
-
 case "$1" in
 	start)
 	$1
